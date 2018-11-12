@@ -5,7 +5,9 @@
  */
 
 #mainNav {
-  min-height: 56px;
+  min-height: 40px;
+  max-width: 100%;
+  overflow: hidden;
   background-color: #fff;
 }
 
