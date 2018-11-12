@@ -5,14 +5,13 @@
  */
 
 #mainNav {
-  min-height: 40px;
-  max-height: 40px;
+  min-height: 56px;
   background-color: #fff;
 }
 
 #mainNav .navbar-toggler {
   font-size: 80%;
-  padding: 0.25rem;
+  padding: 0.5rem;
   color: #64a19d;
   border: 1px solid #64a19d;
 }
@@ -173,7 +172,7 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  padding-top: 10rem !important;
+  padding-top: 5rem !important;
   /* background-image: url("../img/worldOnBottomHalf.jpg"); */
   /* padding-top: 10rem; */
   background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(65%, rgba(22, 22, 22, 0.5)), url("../img/worldOnBottomHalf.jpg"));
