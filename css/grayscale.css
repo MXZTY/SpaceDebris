@@ -6,6 +6,7 @@
 
 #mainNav {
   min-height: 40px;
+  max-height: 40px;
   background-color: #fff;
 }
 
