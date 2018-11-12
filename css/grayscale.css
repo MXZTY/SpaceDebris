@@ -171,7 +171,7 @@
   width: 100%;
   height: auto;
   min-height: 35rem;
-  padding: 0rem;
+  padding: 15rem 0;
   /* background-image: url("../img/worldOnBottomHalf.jpg"); */
   /* padding-top: 10rem; */
   background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(65%, rgba(22, 22, 22, 0.5)), url("../img/worldOnBottomHalf.jpg"));
@@ -290,7 +290,7 @@ body {
 
 p {
   font-size: 14pt;
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(255, 255, 255, 0.85) !important;
 }
 
 a {
