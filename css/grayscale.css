@@ -109,11 +109,6 @@
   -webkit-background-clip: text;
 }
 
-.masthead h2 {
-  max-width: 20rem;
-  font-size: 1rem;
-}
-
 @media (min-width: 768px) {
   .masthead h1 {
     font-size: 4rem;
@@ -133,7 +128,6 @@
   }
   .masthead h2 {
     max-width: 30rem;
-    font-size: 1.25rem;
   }
 }
 
